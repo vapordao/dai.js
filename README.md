@@ -1,4 +1,4 @@
-# Dai.js SDK monorepo
+# Vai.js SDK monorepo
 
 [![Build Status][build]][build-url]
 [![Coverage Status][cover]][cover-url]
